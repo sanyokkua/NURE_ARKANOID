@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BC7F9FB4-C957-44C4-B567-35A8B2421099}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNIVERSITY_LAB_ARKANOID/Game1.cs">
+    <Files>
+      <File FileName="UNIVERSITY_LAB_ARKANOID/Game1.cs" Line="15" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UNIVERSITY__LAB__ARKANOID PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

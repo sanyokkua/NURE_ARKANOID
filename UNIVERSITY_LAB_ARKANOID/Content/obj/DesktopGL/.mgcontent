@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/NIX/sanyokkua/Projects/git_tmp/UNIVERSITY_LAB_ARKANOID/UNIVERSITY_LAB_ARKANOID/Content/ball.png</File>
+    <File>/home/NIX/sanyokkua/Projects/git_tmp/UNIVERSITY_LAB_ARKANOID/UNIVERSITY_LAB_ARKANOID/Content/bang.mp3</File>
+    <File>/home/NIX/sanyokkua/Projects/git_tmp/UNIVERSITY_LAB_ARKANOID/UNIVERSITY_LAB_ARKANOID/Content/block_image_good.png</File>
+    <File>/home/NIX/sanyokkua/Projects/git_tmp/UNIVERSITY_LAB_ARKANOID/UNIVERSITY_LAB_ARKANOID/Content/block_image_middle.png</File>
+    <File>/home/NIX/sanyokkua/Projects/git_tmp/UNIVERSITY_LAB_ARKANOID/UNIVERSITY_LAB_ARKANOID/Content/block_image_worse.png</File>
+    <File>/home/NIX/sanyokkua/Projects/git_tmp/UNIVERSITY_LAB_ARKANOID/UNIVERSITY_LAB_ARKANOID/Content/cosmic.jpg</File>
+    <File>/home/NIX/sanyokkua/Projects/git_tmp/UNIVERSITY_LAB_ARKANOID/UNIVERSITY_LAB_ARKANOID/Content/destroy.mp3</File>
+    <File>/home/NIX/sanyokkua/Projects/git_tmp/UNIVERSITY_LAB_ARKANOID/UNIVERSITY_LAB_ARKANOID/Content/gameover.mp3</File>
+    <File>/home/NIX/sanyokkua/Projects/git_tmp/UNIVERSITY_LAB_ARKANOID/UNIVERSITY_LAB_ARKANOID/Content/new_ball.png</File>
+    <File>/home/NIX/sanyokkua/Projects/git_tmp/UNIVERSITY_LAB_ARKANOID/UNIVERSITY_LAB_ARKANOID/Content/scroll (1).jpg</File>
+    <File>/home/NIX/sanyokkua/Projects/git_tmp/UNIVERSITY_LAB_ARKANOID/UNIVERSITY_LAB_ARKANOID/Content/scroll (2).jpg</File>
+    <File>/home/NIX/sanyokkua/Projects/git_tmp/UNIVERSITY_LAB_ARKANOID/UNIVERSITY_LAB_ARKANOID/Content/SpriteFont_GAME.spritefont</File>
+    <File>/home/NIX/sanyokkua/Projects/git_tmp/UNIVERSITY_LAB_ARKANOID/UNIVERSITY_LAB_ARKANOID/Content/Game.ico</File>
+    <File>/home/NIX/sanyokkua/Projects/git_tmp/UNIVERSITY_LAB_ARKANOID/UNIVERSITY_LAB_ARKANOID/Content/GameThumbnail.png</File>
+  </SourceFiles>
+</SourceFileCollection>
