@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SourceFile>/home/NIX/sanyokkua/Projects/git_tmp/UNIVERSITY_LAB_ARKANOID/UNIVERSITY_LAB_ARKANOID/Content/block_image_good.png</SourceFile>
-  <SourceTime>2014-12-13T17:52:52+02:00</SourceTime>
+  <SourceTime>2018-10-22T18:05:19+03:00</SourceTime>
   <DestFile>/home/NIX/sanyokkua/Projects/git_tmp/UNIVERSITY_LAB_ARKANOID/UNIVERSITY_LAB_ARKANOID/Content/bin/DesktopGL/block_image_good.xnb</DestFile>
-  <DestTime>2018-10-22T17:31:35+03:00</DestTime>
+  <DestTime>2018-10-22T18:05:42+03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-10-22T16:12:24+03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
